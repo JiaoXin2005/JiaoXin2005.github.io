@@ -18,6 +18,7 @@ module.exports = {
       },
     ],
   ],
+  plugins: ["flowchart"],
   theme: "reco",
   themeConfig: {
     dateFormat: "YYYY-MM-DD",
